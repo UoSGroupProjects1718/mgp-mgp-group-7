@@ -5401,3 +5401,8 @@ Make sure '2DSideScrollerCharacter_C' has been compiled for  Get GameReady
 [2018.03.05-12.49.15:669][632]LogSavePackage: Save=3561.07ms
 [2018.03.05-12.49.15:669][632]LogSavePackage: Moving 'E:/Projects/Unreal/copy/mgp-mgp-group-7/Programming/powerbar2D/Saved/MainMenu0D5E7C404CF713D6A973A4983BE47B1E.tmp' to 'E:/Projects/Unreal/copy/mgp-mgp-group-7/Programming/powerbar2D/Content/2DSideScrollerBP/Blueprints/MainMenu.umap'
 [2018.03.05-12.49.15:800][632]LogSavePackage: Display: Finished SavePackage E:/Projects/Unreal/copy/mgp-mgp-group-7/Programming/powerbar2D/Content/2DSideScrollerBP/Blueprints/MainMenu.umap
+[2018.03.05-12.52.32:780][593]LogEditorViewport: Clicking Background
+[2018.03.05-12.54.07:628][378]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.03.05-12.54.07:711][378]LogBlueprint: Error: [Compiler 2DSideScrollerCharacter] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.03.05-12.54.08:092][378]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] [1615.89] Compile of 2DSideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 464 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2018.03.05-12.54.33:187][172]BlueprintLog: New page: Compile 2DSideScrollerCharacter
